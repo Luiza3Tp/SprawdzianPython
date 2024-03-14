@@ -1,0 +1,20 @@
+a. 504
+b. 110
+c. zer jest 1 jedynek jest 50
+d. 507
+e. 149
+f.Napisow 2-znakowych: 43
+f.Napisow 3-znakowych: 38
+f.Napisow 4-znakowych: 37
+f.Napisow 5-znakowych: 57
+f.Napisow 6-znakowych: 53
+f.Napisow 7-znakowych: 68
+f.Napisow 8-znakowych: 78
+f.Napisow 9-znakowych: 103
+f.Napisow 10-znakowych: 83
+f.Napisow 11-znakowych: 90
+f.Napisow 12-znakowych: 86
+f.Napisow 13-znakowych: 81
+f.Napisow 14-znakowych: 68
+f.Napisow 15-znakowych: 59
+f.Napisow 16-znakowych: 56
